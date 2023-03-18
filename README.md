@@ -4,4 +4,4 @@ Trabalho Escolar sobre NFT
 # 🗃 | Organizar a fotos na pasta chamada "image", video na pasta chamada "video" se quiser colocar gif colocar na pasta gifs.
 # 🗃 | Os arquivos chamado ethereumChart.js e bitcoinChart.js são gráficos de criptomoedas, colocar eles na pasta chamada Javascript.
 # 🙋 | Se não der certo entrar comigo pelo Discord para lhe ajudar meu nick é Navegador#0424.
-# ❌ | Se quiser remover o arquixo nix é bom pois ele foi criado na hota que baixei o arquivo em .zip
+# ❌ | Se quiser remover o arquixo nix é bom pois ele foi criado na hora que baixei o arquivo em .zip
